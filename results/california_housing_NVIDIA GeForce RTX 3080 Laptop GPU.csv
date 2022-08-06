@@ -1,0 +1,2 @@
+,device,dataset_name,epochs,batch_size,num_train_samples,num_test_samples,total_train_time,time_per_epoch,model
+0,NVIDIA GeForce RTX 3080 Laptop GPU,california_housing,,,16512,4128,13.776,,RandomForestCV
